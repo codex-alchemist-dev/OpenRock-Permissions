@@ -1,0 +1,8 @@
+{
+  "name": "@openrock/permissions",
+  "version": "1.0.0",
+  "description": "OP-check plus a stored, MCLite-backed, salted-and-hashed password gate - never plaintext, never a one-off reimplementation per mod.",
+  "license": "MPL-2.0",
+  "private": true,
+  "main": "src/register.js"
+}
